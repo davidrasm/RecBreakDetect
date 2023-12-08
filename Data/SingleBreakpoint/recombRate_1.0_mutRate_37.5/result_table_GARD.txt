@@ -1,0 +1,1 @@
+power	true_child	accuracy	precision	coverage	recomb_rate	mut_rate	iter	method
